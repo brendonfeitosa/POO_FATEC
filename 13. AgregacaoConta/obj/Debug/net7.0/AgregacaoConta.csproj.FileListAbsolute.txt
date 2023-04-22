@@ -1,0 +1,15 @@
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.csproj.AssemblyReference.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.AssemblyInfoInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.AssemblyInfo.cs
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.csproj.CoreCompileInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.exe
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.deps.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.runtimeconfig.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\refint\AgregacaoConta.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.genruntimeconfig.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\13. AgregacaoConta\obj\Debug\net7.0\ref\AgregacaoConta.dll

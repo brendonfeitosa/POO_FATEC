@@ -1,0 +1,15 @@
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.exe
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.deps.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.runtimeconfig.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.csproj.AssemblyReference.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.AssemblyInfoInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.AssemblyInfo.cs
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.csproj.CoreCompileInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\refint\AgregacaoContaVetor.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.genruntimeconfig.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\14. AgregacaoContaVetor\obj\Debug\net7.0\ref\AgregacaoContaVetor.dll

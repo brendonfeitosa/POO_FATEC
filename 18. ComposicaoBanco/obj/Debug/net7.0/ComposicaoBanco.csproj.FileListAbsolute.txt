@@ -1,0 +1,15 @@
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.exe
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.deps.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.runtimeconfig.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\bin\Debug\net7.0\ComposicaoBanco.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.csproj.AssemblyReference.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.AssemblyInfo.cs
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\refint\ComposicaoBanco.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ComposicaoBanco.genruntimeconfig.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\18. ComposicaoBanco\obj\Debug\net7.0\ref\ComposicaoBanco.dll

@@ -1,0 +1,15 @@
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.exe
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.deps.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.runtimeconfig.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.csproj.AssemblyReference.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.AssemblyInfoInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.AssemblyInfo.cs
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.csproj.CoreCompileInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\refint\ComposicaoPedido.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.genruntimeconfig.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\16. ComposicaoPedido\obj\Debug\net7.0\ref\ComposicaoPedido.dll

@@ -1,0 +1,30 @@
+D:\Disciplinas\POO_noite\RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.exe
+D:\Disciplinas\POO_noite\RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.deps.json
+D:\Disciplinas\POO_noite\RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.runtimeconfig.json
+D:\Disciplinas\POO_noite\RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.dll
+D:\Disciplinas\POO_noite\RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.pdb
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.dll
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\refint\RevisaoComandos.dll
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.pdb
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\RevisaoComandos\obj\Debug\net6.0\ref\RevisaoComandos.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.exe
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.deps.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.runtimeconfig.json
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\bin\Debug\net6.0\RevisaoComandos.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.csproj.AssemblyReference.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.AssemblyInfoInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.AssemblyInfo.cs
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.csproj.CoreCompileInputs.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\refint\RevisaoComandos.dll
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.pdb
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\RevisaoComandos.genruntimeconfig.cache
+C:\Users\Brendon_Feitosa\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\1. RevisaoComandos\obj\Debug\net6.0\ref\RevisaoComandos.dll
