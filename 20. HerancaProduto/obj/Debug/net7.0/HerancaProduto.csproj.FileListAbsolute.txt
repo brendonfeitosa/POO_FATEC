@@ -1,0 +1,15 @@
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\bin\Debug\net7.0\HerancaProduto.exe
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\bin\Debug\net7.0\HerancaProduto.deps.json
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\bin\Debug\net7.0\HerancaProduto.runtimeconfig.json
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\bin\Debug\net7.0\HerancaProduto.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\bin\Debug\net7.0\HerancaProduto.pdb
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\HerancaProduto.csproj.AssemblyReference.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\HerancaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\HerancaProduto.AssemblyInfoInputs.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\HerancaProduto.AssemblyInfo.cs
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\HerancaProduto.csproj.CoreCompileInputs.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\HerancaProduto.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\refint\HerancaProduto.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\HerancaProduto.pdb
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\HerancaProduto.genruntimeconfig.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\20. HerancaProduto\obj\Debug\net7.0\ref\HerancaProduto.dll
