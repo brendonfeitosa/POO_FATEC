@@ -1,0 +1,5 @@
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\23. AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.csproj.AssemblyReference.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\23. AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\23. AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.AssemblyInfoInputs.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\23. AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.AssemblyInfo.cs
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\23. AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.csproj.CoreCompileInputs.cache
