@@ -14,5 +14,8 @@ namespace AbstrataCliente
             Codigo = cod;
             Nome = nom;
         }
+
+        public abstract void Mostrar(); //se o método for diz que a classe existe mais aqui não tem corpo de programação
+        //isto obriga que as subclasses possam implementar o método da melhor forma para elas
     }
 }
