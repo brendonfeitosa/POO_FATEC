@@ -1,0 +1,15 @@
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\IterfaceTributos.csproj.AssemblyReference.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\IterfaceTributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\IterfaceTributos.AssemblyInfoInputs.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\IterfaceTributos.AssemblyInfo.cs
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\IterfaceTributos.csproj.CoreCompileInputs.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\bin\Debug\net7.0\IterfaceTributos.exe
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\bin\Debug\net7.0\IterfaceTributos.deps.json
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\bin\Debug\net7.0\IterfaceTributos.runtimeconfig.json
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\bin\Debug\net7.0\IterfaceTributos.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\bin\Debug\net7.0\IterfaceTributos.pdb
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\IterfaceTributos.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\refint\IterfaceTributos.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\IterfaceTributos.pdb
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\IterfaceTributos.genruntimeconfig.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\26. IterfaceTributos\obj\Debug\net7.0\ref\IterfaceTributos.dll
