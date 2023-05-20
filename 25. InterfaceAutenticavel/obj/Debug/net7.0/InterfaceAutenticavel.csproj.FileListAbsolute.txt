@@ -1,0 +1,15 @@
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.csproj.AssemblyReference.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.AssemblyInfo.cs
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.exe
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.deps.json
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.runtimeconfig.json
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.pdb
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\refint\InterfaceAutenticavel.dll
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.pdb
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.genruntimeconfig.cache
+C:\Users\brendon\OneDrive\Documentos\1. ADS - Fatec\4º Termo - 1º sem 2023\Programação Orientada a Objetos\PROJETOS_POO\25. InterfaceAutenticavel\obj\Debug\net7.0\ref\InterfaceAutenticavel.dll
